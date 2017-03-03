@@ -1,8 +1,8 @@
-var express = require('express');
+const express = require('express');
 
-var app = express();
+const app = express();
 
-var www = express.static(__dirname + '/www');
+const www = express.static(__dirname + '/www');
 
 app.use('/', www);
 
