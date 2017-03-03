@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name" : "Jody Tate",
+    "email" : "jody@josephtate.com",
+    "url" : "http://josephtate.com/"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.0"
